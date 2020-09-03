@@ -1,4 +1,4 @@
-### Hi there 👋🏾  welcome to my Github! I am currently learning C and exploring Cloud Tech ☁️
+### Hi there 👋🏾  welcome to my Github! I am currently learning Java/Docker and exploring Cloud Tech ☁️
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/VDAmBNLFRrfWpKap5l/giphy.gif">
