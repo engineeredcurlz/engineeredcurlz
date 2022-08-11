@@ -1,8 +1,8 @@
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/q139C0QElkaSk/giphy.gif">
-  <img width="250" src="https://media.giphy.com/media/VDAmBNLFRrfWpKap5l/giphy.gif">
-  <img width="400" src="https://media.giphy.com/media/3o72F2fmqq8uYg6VdC/giphy.gif">
+  <img width="200" src="https://media.giphy.com/media/VDAmBNLFRrfWpKap5l/giphy.gif">
+  <img width="300" src="https://media.giphy.com/media/3o72F2fmqq8uYg6VdC/giphy.gif">
 </p>
 
 
