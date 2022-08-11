@@ -7,7 +7,8 @@
 
 
 ### <h1>Hi there  👋🏾, I'm Diamond.</h1>
-I'm a Site Reliability Engineer with a base in Software Engineering. <br>   
+I'm a Software Engineer with a focus on Site Reliability Engineering. I am passionate about showing how fun the world of SRE is and getting more people interested. I abaolutely love open source tenchologies and building a community. Some technologies that spark my interest is cloud, quantum, blockchain, and virtual reality. My hope is that someone finds my craziness and deems it useful in their journey. I am learning outloud, making mistakes publicly, and sharing my journey in real time. From marketing assistant to apprentice to site reliability engineer. Lets keep building those knowledge blocks :)
+<br>   
 
 🔭 *Catch me on my blog*: [EngineeredCurlz.com](https://engineeredcurlz.com/) 
 [![Stream Badge](https://img.shields.io/badge/-EngineeredCurlz-white?style=flat&logo=data.ai&logoColor=darkviolet)](https://www.linkedin.com/in/purvisdiamond)
