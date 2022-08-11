@@ -7,7 +7,7 @@
 
 
 ### <h1>Hi there  👋🏾, I'm Diamond.</h1>
-##### I'm a Site Reliability Engineer with a base in Software Engineering. <br>   
+I'm a Site Reliability Engineer with a base in Software Engineering. <br>   
 
 🔭 *Catch me on my blog*: [EngineeredCurlz.com](https://engineeredcurlz.com/) 
 [![Stream Badge](https://img.shields.io/badge/-EngineeredCurlz-white?style=flat&logo=data.ai&logoColor=darkviolet)](https://www.linkedin.com/in/purvisdiamond)
