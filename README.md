@@ -1,61 +1,44 @@
-<p align="right">
+
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/q139C0QElkaSk/giphy.gif">
+  <img width="250" src="https://media.giphy.com/media/VDAmBNLFRrfWpKap5l/giphy.gif">
   <img width="400" src="https://media.giphy.com/media/3o72F2fmqq8uYg6VdC/giphy.gif">
 </p>
 
 
-### Hi there  👋🏾, I'm Diamond. 
-### I'm a Site Reliability Engineer and Software Engineer. I was a past AWS Community builder but now my focus has shifted to Azure. Welcome to my github page! <br>   
+### <h1>Hi there  👋🏾, I'm Diamond.</h1>
+##### I'm a Site Reliability Engineer with a base in Software Engineering. <br>   
 
-🔭 *Currently working on*:  100 days of DevSecOps, my own personal challenge. Keep me accountable as I publicly learn!
+🔭 *Catch me on my blog*: [EngineeredCurlz.com](https://engineeredcurlz.com/) 
+[![Stream Badge](https://img.shields.io/badge/-EngineeredCurlz-white?style=flat&logo=data.ai&logoColor=darkviolet)](https://www.linkedin.com/in/purvisdiamond)
 <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Future Blog](https://)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Future Blog](https://)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Future Blog](https://)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Future Blog](https://)<br>
-
-🌱 *Currently Learning*: Python<br>
-
-👓 some things i know: Python, + more <br> 
-🌻 topics i'm exploring: ... <br> 
-⚡ Cert: AWS CCP
-
+🌻 Topics i'm exploring: Kubernetes <br> 
 💛 she/her <br>
 🦋 Fun fact: I am currently on a "clarity" & "self-care" journey.<br> 
-
 📫 How to reach me: <br>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/purvisdiamond)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-white?style=flat&logo=Twitter&logoColor=blue)](https://www.twitter.com/engineeredcurlz)
 [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-white?style=flat&logo=hashnode&logoColor=darkblue)](https://www.linkedin.com/in/purvisdiamond)
+![](https://visitor-badge.glitch.me/badge?page_id=diamondpurvis.diamondpurvis)
 
 
-
-
-
-<p align="center">
-  <src="<iframe src="https://giphy.com/embed/3o72F2fmqq8uYg6VdC" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/blackgirlmagic-3o72F2fmqq8uYg6VdC">via GIPHY</a></p>">
-</p>
-<br>
-
-<p align="right">
-  <img width="250" src="https://media.giphy.com/media/VDAmBNLFRrfWpKap5l/giphy.gif">
+---
+### 👓 Some things I know: <p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="RedHat" alt="Redhat" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </p>
 
-
-<p align="center">
-<a href= "https://dev.to/engineeredcurlz"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://twitter.com/engineeredcurlz"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-</p>
-
+---
+### ⚡ Certifications: 
+<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" title="AWS CCP" alt="AWS CCP" width="45" height="45"/>&nbsp;
 
 <p align="center">
 Check out my repos ⬇️  
 </p>
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=diamondpurvis.diamondpurvis)
-
    
 
 
@@ -87,6 +70,11 @@ https://media.giphy.com/media/XeMwE29gdiq549vFMW/giphy.gif
 
 
 Resume:  [Christina Kopecky Resume](https://) (PDF download) 
+<p align="center">
+<a href= "https://dev.to/engineeredcurlz"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "https://twitter.com/engineeredcurlz"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+</p>
+
 -->
 
 
