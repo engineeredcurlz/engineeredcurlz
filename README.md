@@ -22,8 +22,8 @@ I'm a Software Engineer with a focus on Site Reliability Engineering. I am passi
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/purvisdiamond)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-white?style=flat&logo=Twitter&logoColor=blue)](https://www.twitter.com/engineeredcurlz)
 [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-white?style=flat&logo=hashnode&logoColor=darkblue)](https://www.linkedin.com/in/purvisdiamond)
-![](https://visitor-badge.glitch.me/badge?page_id=diamondpurvis.diamondpurvis)
-
+![](https://komarev.com/ghpvc/?username=engineeredcurlz&color=blue)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=engineeredcurlz) -->
 
 ---
 ### 👓 Some things I know: <p>
@@ -36,6 +36,7 @@ I'm a Software Engineer with a focus on Site Reliability Engineering. I am passi
 ---
 ### ⚡ Certifications: 
 <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" title="AWS CCP" alt="AWS CCP" width="45" height="45"/>&nbsp;
+<img src="https://images.credly.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" title="CompTIA A+" alt="CompTIA A+" width="45" height="45"/>&nbsp;
 
 <p align="center">
 Check out my repos ⬇️  
