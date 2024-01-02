@@ -37,7 +37,7 @@ I'm a Software Engineer with a focus on Site Reliability Engineering. I am passi
 ### ⚡ Certifications: 
 <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" title="AWS CCP" alt="AWS CCP" width="45" height="45"/>&nbsp;
 <img src="https://images.credly.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" title="CompTIA A+" alt="CompTIA A+" width="45" height="45"/>&nbsp;
-
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" title="Azure Fundamentals" alt="Azure Fundamentals" width="45" height="45"/>&nbsp;
 <p align="center">
 Check out my repos ⬇️  
 </p>
