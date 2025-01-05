@@ -21,7 +21,7 @@ I'm a Software Engineer with a focus on Site Reliability Engineering. I am passi
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/purvisdiamond)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-white?style=flat&logo=Twitter&logoColor=blue)](https://www.twitter.com/engineeredcurlz)
-[![Hashnode Badge](https://img.shields.io/badge/-Hashnode-white?style=flat&logo=hashnode&logoColor=darkblue)](https://www.linkedin.com/in/purvisdiamond)
+[![Hashnode Badge](https://img.shields.io/badge/-Hashnode-white?style=flat&logo=hashnode&logoColor=darkblue)](https://engineeredcurlz.hashnode.dev/)
 ![](https://komarev.com/ghpvc/?username=engineeredcurlz&color=blue)
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=engineeredcurlz) -->
 
