@@ -37,9 +37,9 @@ I'm a Software Engineer with a focus on Site Reliability Engineering. I am passi
 ### ⚡ Certifications: 
 <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" title="AWS CCP" alt="AWS CCP" width="45" height="45"/>&nbsp;
 <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" title="Azure Fundamentals" alt="Azure Fundamentals" width="45" height="45"/>&nbsp;
-<img src="https://images.credly.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" title="CompTIA A+" alt="CompTIA A+" width="45" height="45"/>&nbsp;
-<img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" title="CompTIA Sec+" alt="CompTIA Sec+" width="45" height="45"/>&nbsp;
-<img src="https://images.credly.com/size/340x340/images/559a5b6e-a8c2-49ce-afa5-c2b36219641c/CompTIA_Project_2B.png" title="CompTIA Project+" alt="CompTIA Project+" width="45" height="45"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/9c1f2478-63c1-4870-bcb6-e4b19654963d" title="CompTIA A+" alt="CompTIA A+" width="45" height="45"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/b79a7c85-6791-44fa-a7f7-1fe0af6f2c28" title="CompTIA Sec+" alt="CompTIA Sec+" width="45" height="45"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/4d7f4982-1872-4eb0-a48e-14372c28c66b" title="CompTIA Project+" alt="CompTIA Project+" width="45" height="45"/>&nbsp;
 <p align="center">
 Check out my repos ⬇️  
 </p>
